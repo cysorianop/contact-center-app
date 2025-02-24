@@ -2,7 +2,7 @@
 
 **Estado:** 🚀 En desarrollo | ✅ Completo 
 
-![Logo](public/logo.png) 
+![Logo](public/logo.PNG) 
 
 Este proyecto es una aplicación web desarrollada con **Next.js** y **TailwindCSS** que permite gestionar clientes y agentes de un centro de contacto. Se basa en un backend mockeado con **Node.js**.
 
@@ -34,8 +34,8 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/cysorianop/contact-center-app.git
+cd contact-center-app
 ```
 
 ### 2️⃣ Instalar Dependencias
